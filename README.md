@@ -10,6 +10,9 @@ make Part of Speech from scratch not depand on libs like nltk
   <li>numpy</li>
 </ul>
 
+Note : i used nltk to load dataset supervised (word ,pos) in sentence
+#### we use model Lstm many to many which input = output
+
 introduction about POS
 
 in grammar, a part of speech or part-of-speech (abbreviated as POS or PoS, also known as word class or grammatical category) is a category of words (or, more generally,
